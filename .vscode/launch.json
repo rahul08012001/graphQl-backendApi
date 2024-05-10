@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "https://studio.apollographql.com/sandbox/explorer",
+            "request": "launch",
+            "url": "https://studio.apollographql.com/sandbox/explorer"
+        }
+    ]
+}
